@@ -8,6 +8,7 @@ import math
 
 df=pd.read_csv("Customers.csv")
 
+
 X=df[['Avg. Session Length', 'Time on App', 'Time on Website', 'Length of Membership']]
 y=df['Yearly Amount Spent']
 

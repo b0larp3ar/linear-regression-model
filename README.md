@@ -1,4 +1,4 @@
-# Linear Regression Project
+# Linear Regression 
 
 This is a beginner machine learning project built using Python and Linear Regression.
 
